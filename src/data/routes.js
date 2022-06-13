@@ -2,27 +2,27 @@ const routes = [
   {
     index: true,
     label: 'Carbon Monitoring System',
-    path: '/',
+    path: '/cms',
   },
   {
     label: 'About',
-    path: '/about',
+    path: '/cms/about',
   },
   {
     label: 'Project Sites',
-    path: '/resume',
+    path: '/cms/resume',
   },
   {
     label: 'Project Updates',
-    path: '/projects',
+    path: '/cms/projects',
   },
   {
     label: 'Stats',
-    path: '/stats',
+    path: '/cms/stats',
   },
   {
     label: 'Resources',
-    path: '/contact',
+    path: '/cms/contact',
   },
 ];
 

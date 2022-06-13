@@ -21,7 +21,7 @@ const Projectsites = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="resume">Project Sites</Link></h2>
+          <h2 data-testid="heading"><Link to="/cms/resume">Project Sites</Link></h2>
           {/* <div className="link-container"> */}
           {/*  {sections.map((sec) => ( */}
           {/*    <h6 key={sec}> */}

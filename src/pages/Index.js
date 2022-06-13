@@ -11,7 +11,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About</Link></h2>
+          <h2 data-testid="heading"><Link to="/cms/about">About</Link></h2>
         </div>
       </header>
       <p> The Water for Agriculture project brings together social and biophysical researchers and
